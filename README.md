@@ -48,3 +48,18 @@ Each file consists of three IDs (0, 1, and 2), with 0 representing training data
 ```
 {"chunks": [{"id": 0, "imgs": ["pattern_of_patches/x1_y1.png", "pattern_of_patches/x2_y2.png"]}, {"id": 1, "imgs": ["pattern_of_patches/x3_y3.png", "pattern_of_patches/x4_y4.png"]}, {"id": 2, "imgs": ["pattern_of_patches/x5_y5.png", "pattern_of_patches/x6_y6.png"]}]}
 ```
+
+### Citation ###
+
+```
+@article{asadi2024learning,
+  title={Learning generalizable AI models for multi-center histopathology image classification},
+  author={Asadi-Aghbolaghi, Maryam and Darbandsari, Amirali and Zhang, Allen and Contreras-Sanz, Alberto and Boschman, Jeffrey and Ahmadvand, Pouya and K{\"o}bel, Martin and Farnell, David and Huntsman, David G and Churg, Andrew and C. Black, Peter and Wang, Gang and Gilks, C. Blake, and Farahani, Hossein and Bashashati, Ali},
+  journal={npj Precision Oncology},
+  volume={8},
+  number={1},
+  pages={151},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
